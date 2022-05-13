@@ -7,4 +7,6 @@ github pages / hack md notes from rebase.xyz meetings.
 1. take notes in hack md during meeting.
 2. publish the notes under meetings directory following the datetime convention
 
+## meetings
 
+- [2022-05-13](./meetings/2022-05-13.md)
