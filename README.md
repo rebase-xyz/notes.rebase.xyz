@@ -12,6 +12,8 @@ github pages / hack md notes from rebase.xyz meetings.
 6. take notes
 7. if the file starts to fill up, create a new one in hackmd (with an "edit in hackmd badge), following the file naming convention, and insert it above the current on the list below.
 
+
+
 ## meeting notes archive:
 
 - [2022-part1](./meetings/2022-part1.md)
