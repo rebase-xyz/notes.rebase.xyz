@@ -10,7 +10,7 @@ github pages / hack md notes from rebase.xyz meetings.
 4. paste the URL of the hackmd into the chat so that others can correct/add as you go
 5. if no one screensharing github or a demo, consider screensharing the hackmd
 6. take notes
-7. if the file starts to fill up, create a new one in hackmd (with an "edit in hackmd badge), following the file naming convention, and insert it above the current on the list below.
+7. if the file starts to fill up, create a new one in hackmd (with an "edit in hackmd badge), following the file naming convention, and insert it above the current on the list below...
 
 
 
